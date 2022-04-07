@@ -1,0 +1,37 @@
+.rec{
+    position: absolute;
+    left: 0px;
+    top: 253px;
+    width: 960px;
+    height: 827px;
+  }
+  
+.rec{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 960px;
+    height: 827px;
+    border-radius: 50px;
+    border: 1px solid ;
+    background: #000000;
+  }
+
+.rec2{
+    position: absolute;
+    left: 960px;
+    top: 254px;
+    width: 960px;
+    height: 827px;
+  }
+  
+.rec2{
+    position: absolute;
+    width: 960px;
+    height: 827px;
+    border-radius: 50px;
+    border: 1px solid ;
+    background: #bd0505;
+}
+  
+  

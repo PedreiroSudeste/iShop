@@ -1,0 +1,111 @@
+.head{
+    text-align: center;
+    font-family: Arial;
+    align-self: center;
+    color: rgb(0, 0, 0);
+    background-color:aliceblue;
+    border-radius: 25px;
+}
+/* para o index */
+.logo{
+    align-items: center;
+    width: 60px;
+}
+
+
+
+
+
+
+
+.boxLeft{
+	position: absolute;
+	width: 945px;
+	height: 450px;
+	left: 15px;
+	border-top-left-radius: 50px;
+	background-color: black;
+	color: aliceblue;
+	border-bottom-left-radius: 50px;
+}
+.boxRight{
+	position: absolute;
+	width: 945px;
+	height: 450px;
+	right: 15px;
+	border-top-right-radius: 50px;
+	border-bottom-right-radius: 50px;
+	background-color: black;
+}
+.img{
+	margin-left: 20px;
+	margin-top: 20px;
+	border-radius: 50px;
+}
+.textVenda{
+	top: 20px;
+	text-align: center;
+	font-family: Arial;
+	position: absolute;
+	left: 425px;
+
+}
+table{
+	border: 1px solid lightgray;
+	background-color: lightgray;
+	width: 300px;
+	text-align: center;
+	font-family: Arial;
+	border-radius: 15px;
+	position: absolute;
+	top: 200px;
+	left: 523px;
+	height: 100px;
+}
+th{
+	background-color: lightgrey;
+	border: 1px solid lightgray;
+	border-radius: 15px;
+	color: black;
+}
+td{
+	background-color: lightgrey;
+	border: 1px solid lightgray;
+	border-radius: 15px;
+	color: black;
+}
+.btnComprar {
+	margin-top: 40px;
+	margin-left: 560px;
+	background-color:#ffffff;
+	border-radius:28px;
+
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+
+
+}
+.btnComprar:hover{
+	background-color: cadetblue;
+}
+.btnVoltar{
+	margin-top: 180px;
+	margin-left: 780px;
+	background-color:#ffffff;
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	text-decoration:none;
+	font-size:17px;
+	padding:16px 31px;
+}
+.btnVoltar:hover{
+	background-color:crimson;
+}
